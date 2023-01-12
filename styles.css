@@ -1,0 +1,128 @@
+/* .box {
+    border: 20px solid lightgray;
+    width: 95%;
+    height: 900px;
+}
+
+nav {
+    display: flex;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 50px;
+    list-style: none;
+}
+li:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+li {
+    margin-left: 10px;
+    
+}
+
+.abschnitt {
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+
+.discription {
+    display: flex;
+    width: 700px;
+}
+
+
+.image {
+    background: url(/exercises/aufgabe/uib-box-model-travel-page-sokolov574/images/beach.jpg);
+    background-position: center;
+
+    margin-left: auto;
+    width: 50%;
+    height: 100%;
+    left: auto;
+    flex-direction: row;
+}
+
+.graybox {
+    position: ;
+}
+ */
+
+ .graybox {
+    border: 25px solid lightgray;
+    border-right: 35px solid lightgray;
+    border-bottom: 45px solid lightgray;
+    height: 900px;
+    margin-left: auto;
+    position: relative;
+    
+   
+ }
+
+/* NAV */
+ .navigation {
+  
+    margin-left: 650px;
+ }
+
+ ul {
+    display: flex;
+    list-style: none;
+ }
+ li {
+    padding: 20px;
+ }
+
+ li:hover {
+    font-weight: bold;
+    cursor: pointer;
+ }
+ /* NAV END */
+
+
+ 
+
+/* BOX LEFT */
+ .box1 {
+    position: absolute;
+ }
+
+ .abschnitt {
+    margin-left: 100px;
+    margin-top: 350px;
+    width: 550px;
+}
+
+
+.footerbox  {
+    display: flex;
+    background-color: lightgray;
+    height: 50px;
+    width: 850px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+/* BOX LEFT END */
+
+
+
+
+
+ .box2 {
+    background: url(/exercises/aufgabe/uib-box-model-travel-page-sokolov574/images/beach.jpg);
+    background-position: center;
+    background-size: cover;
+    float: right;
+    width: 50%;
+    height: 900px;
+    max-width: 100%;
+    
+    } 
